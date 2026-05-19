@@ -11,6 +11,22 @@
 
 ---
 
+### 🎵 Now Playing
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=djodiaxa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify"/>
+</p>
+
+---
+
+### 💭 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote"/>
+</p>
+
+---
+
 ### About me
 
 I'm a student who is serious about learning to code. Not just reading about it — building projects, documenting progress, and sharing everything publicly on GitHub.
@@ -58,6 +74,14 @@ Documentation  ██████████░░░░░░░░░░   50
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=djodiaxa&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9" width="95%" alt="activity"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/djodiaxa/djodiaxa/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
 
 ---
