@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/djodiaxa"><img src="https://img.shields.io/badge/Status-Learning-58A6FF?style=for-the-badge" alt="status"/></a>
-  <a href="https://github.com/djodiaxa/mimo-student-journey"><img src="https://img.shields.io/badge/Portfolio-mimo--student--journey-success?style=for-the-badge&logo=github" alt="portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=djodiaxa&style=for-the-badge&color=58A6FF" alt="views"/>
 </p>
 
@@ -24,7 +23,7 @@ I believe in learning by doing, staying consistent, and making progress visible 
 
 | Project | Language | Status |
 |---------|----------|--------|
-| [Simple Calculator](https://github.com/djodiaxa/mimo-student-journey/tree/main/projects/calculator) | Python | ✅ Complete |
+| Simple Calculator | Python | ✅ Complete |
 | Learning Log | Markdown | 📝 Active |
 | To-do List App | Python | 🔜 Planned |
 | Number Guessing Game | Python | 🔜 Planned |
@@ -75,7 +74,6 @@ Documentation  ██████████░░░░░░░░░░   50
 
 <p align="center">
   <a href="https://github.com/djodiaxa"><img src="https://img.shields.io/badge/GitHub-djodiaxa-181717?style=for-the-badge&logo=github" alt="github"/></a>
-  <a href="https://github.com/djodiaxa/mimo-student-journey"><img src="https://img.shields.io/badge/Portfolio-mimo--student--journey-success?style=for-the-badge&logo=github" alt="portfolio"/></a>
 </p>
 
 ---
